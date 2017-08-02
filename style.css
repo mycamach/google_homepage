@@ -1,0 +1,23 @@
+body {
+
+	font-family: arial, sans-serif;
+}
+
+ul {
+
+	list-style-type: none;
+	margin: 0;
+	padding:0;
+	float: right;
+}
+
+.navbar li {
+
+	float:left;
+	padding: 8px;
+}
+
+.google {
+
+	clear: both;
+}
